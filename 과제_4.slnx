@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="과제_4.2/과제_4.2.vcxproj" />
+  <Project Path="과제_4.3/과제_4.3.vcxproj" />
+  <Project Path="과제_4.4/과제_4.4.vcxproj" />
+  <Project Path="과제_4/과제_4.vcxproj" />
+</Solution>
